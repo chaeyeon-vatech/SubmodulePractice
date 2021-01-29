@@ -1,0 +1,3 @@
+[submodule "cysub"]
+	path = cysub
+	url = https://github.com/chaeyeon-vatech/cysub.git
