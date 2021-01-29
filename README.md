@@ -3,7 +3,7 @@
 ## 📝 Initialize Submodule
 
 ### <strong> 1. 서브 모듈 등록 <br> </strong>
- git submodule add https://github.com/chaeyeon-vatech/cysub.git
+```git submodule add https://github.com/chaeyeon-vatech/cysub.git```
 
 ### <strong> 2. Git Status 확인/ .gitmodules file 확인<br>  </strong>
 
