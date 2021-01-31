@@ -81,14 +81,14 @@ git submodule init
 git submodule update
 ```
 
-    (Tip) 애초에 clone 할 때 git clone --recurse-submodules https://github.com/sgc109/myblog.git
+    (Tip) 애초에 clone 할 때 git clone --recurse-submodules https://github.com/chaeyeon-vatech/cysub.git
      2개의 추가 명령어를 실행하지 않아도 한 번에 초기화 가능
      
 (2) Q: 다른 개발자가 추가한 사항 반영할 때는?
 
    A: 
 ```
-git submodule update --remote chat-module
+git submodule update --remote cysub
 ```
 
 (3) Q: 수정 사항 공유도 가능한가?
